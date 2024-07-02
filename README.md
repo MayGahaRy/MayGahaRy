@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Karami</h1>
 <h3 align="center">A passionate frontend developer,GameDeveloper,Cpp,Artis</h3>
-
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/13/44/cd/1344cdb8afc60644ab100307da6c3487.gif)")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maygahary&label=Profile%20views&color=0e75b6&style=flat" alt="maygahary" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maygahary" target="blank"><img src="https://img.shields.io/twitter/follow/maygahary?logo=twitter&style=for-the-badge" alt="maygahary" /></a> </p>
