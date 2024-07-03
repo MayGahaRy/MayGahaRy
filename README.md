@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Karami</h1>
 <h3 align="center">A passionate frontend developer,GameDeveloper,Cpp,Artis</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/13/44/cd/1344cdb8afc60644ab100307da6c3487.gif" alt="maygahary" /> </p>
+<p align="left"> <img src="https://gifdb.com/images/high/blue-ocean-waves-animation-5r41wxyagfhlfttl.gif" alt="maygahary" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maygahary" target="blank"><img src="https://img.shields.io/twitter/follow/maygahary?logo=twitter&style=for-the-badge" alt="maygahary" /></a> </p>
 
