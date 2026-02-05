@@ -13,7 +13,7 @@
 <h3>Language:<h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,cs,js" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,cs,js,ts" />
   </a>
 </p>
 <h3>Game Engine:</h3>
@@ -28,9 +28,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite" />
   </a>
 </p>
+<h3>BackEnd:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
+  </a>
+</p>
 <h3>Edit & Art:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,pr,blender" />
   </a>
 </p>
+
+
